@@ -1,0 +1,104 @@
+dog [furColor=Black]
+I bark
+I run with four legs
+
+
+fish [color=Red]
+glub
+I move my fins
+
+
+dog [furColor=null]
+WOOF WOOF!!!
+I run very fast
+
+
+dog [furColor=null]
+arf arf!
+I prance around
+
+
+fish [color=Gray]
+I do not make noises
+Sharks are silent, but deadly
+I use my tail to propell myself
+
+
+fish [color=null]
+I am filled with electricity!
+ZZZZZZZTTTTT
+I slither through the ocean
+dog [furColor=Black]
+I bark
+I run with four legs
+
+
+fish [color=Red]
+glub
+I move my fins
+
+
+dog [furColor=null]
+WOOF WOOF!!!
+I run very fast
+
+
+dog [furColor=null]
+arf arf!
+I prance around
+
+
+fish [color=Gray]
+I do not make noises
+Sharks are silent, but deadly
+I use my tail to propell myself
+
+
+fish [color=null]
+I am filled with electricity!
+ZZZZZZZTTTTT
+I slither through the ocean
+
+
+dog [furColor=Black]
+I bark
+I run with four legs
+fish [color=Red]
+glub
+I move my fins
+dog [furColor=null]
+WOOF WOOF!!!
+I run very fast
+dog [furColor=null]
+arf arf!
+I prance around
+fish [color=Gray]
+I do not make noises
+Sharks are silent, but deadly
+I use my tail to propell myself
+fish [color=null]
+I am filled with electricity!
+ZZZZZZZTTTTT
+I slither through the ocean
+dog [furColor=Black]
+I bark
+I run with four legs
+fish [color=Red]
+glub
+I move my fins
+dog [furColor=null]
+WOOF WOOF!!!
+I run very fast
+dog [furColor=null]
+arf arf!
+I prance around
+fish [color=Gray]
+I do not make noises
+Sharks are silent, but deadly
+I use my tail to propell myself
+fish [color=null]
+I am filled with electricity!
+ZZZZZZZTTTTT
+I slither through the ocean
+All animals in the array:
+[dog [furColor=Black], fish [color=Red], dog [furColor=null], dog [furColor=null], fish [color=Gray], fish [color=null]]

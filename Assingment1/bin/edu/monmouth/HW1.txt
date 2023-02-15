@@ -1,0 +1,24 @@
+1. The toString() method is inherited from the Object class, which is the root of the Java class hierarchy.
+
+2. An abstract method is a method that is declared but not implemented in the current class. 
+We use abstract methods to ensure that subclasses of an abstract class implement specific behavior, 
+allowing for different uses of that behavior
+
+3. A Java interface is a collection of abstract methods and constants that can be implemented by any class
+ A Java class is for creating objects that contain state and behavior
+ 
+4. No, an interface cannot be instantiated. 
+ An interface only defines behavior and does not have any implementation of its own
+ 
+5. The array for animals can house Fish because fish implements the animal interface, guardDog can be
+ housed because it extends dog which implements the animal interface
+ 
+6. The concrete class implementing an interface must provide implementation of all methods from the interface
+
+7. If fish does not define a method from the Animal interface, it must be an abstract class
+ 
+8. Two attributes in guardDog that differ from its parent class are meanness and fur color
+ 
+9. The attribute in showDog that differs from its parent class is breed
+ 
+10.All methods of an interface are public and abstract
